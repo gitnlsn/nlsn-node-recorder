@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "audio-bash-utils": "^1.0.0",
+    "axios": "^1.5.1",
+    "getopts": "^2.3.0"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/node": "^20.8.6",
+    "typescript": "^5.2.2"
+  }
+}
